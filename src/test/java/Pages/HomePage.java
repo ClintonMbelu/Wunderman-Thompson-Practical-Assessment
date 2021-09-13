@@ -14,6 +14,7 @@ public class HomePage {
 		driver.manage().window().maximize();
 	}
 	
+	
 	//go to product and price.
 	public void OpenProduct() {
 		driver.get("https://www.purina.co.uk/dog/dog-food/product-adventuros-ancient-grain-buffalo");   //Launch chrome browser and open Purina website 
